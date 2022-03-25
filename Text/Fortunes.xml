@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Fortunes>
+	<Fortune Above="heaven" Below="heaven">
+		<Name>Yielding</Name>
+		<Text>
+The universe is united in power.
+So too the wise person execute his actions with power and creativity.
+Exceptional progress comes by correct persistence.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="earth">
+		<Name>Yielding</Name>
+		<Text>
+The receptive earth is in power. 
+The wise person follows the natural path of calmness and correct persistence.
+Others may lead while you support their goals.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="thunder">
+		<Name>Confusion</Name>
+		<Text>
+Thunderclouds indicate profound disquiet.
+Undertake no distant goal, but organize support.
+Concern yourself with the problems of the moment.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="water">
+		<Name>Inexperience</Name>
+		<Text>
+As spring water collects at the base of the quiet mountain, 
+the enlightened person finds his level through learning,
+decisiveness, and correct persistence.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="heaven">
+		<Name>Waiting</Name>
+		<Text>
+Clouds of anxietyrise. 
+Do not be anxious, but wait with confidence.
+The moment will arrive when correct persistence brings progress.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="water">
+		<Name>Conflict</Name>
+		<Text>
+Heaven and water, strength and profundity, conflict.
+Avoid confrontation. 
+Yield with caution. persist not against obstacles.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="water">
+		<Name>Cooperation</Name>
+		<Text>
+The receptive earth holds the water and the wise person will 
+find strength in the company of many fellows. 
+With leadership there will be correct persistence and good fortune.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="earth">
+		<Name>Unity</Name>
+		<Text>
+The receptive earth beneath. with profundity above,
+indicates the need for unity and collective awareness of the goal.
+Do not procrastinate. 
+Join with others and return to the plan.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="heaven">
+		<Name>Restraint</Name>
+		<Text>
+The winds of gradual change supported by the strength of Heaven 
+shows that restraint brings progress and satisfaction. 
+Make minor changes and conceal all actions.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="lake">
+		<Name>Correct conduct</Name>
+		<Text>
+The excessive beneath the strong above. 
+Discriminate between the inferior achieve and superior progress.
+Change gives way to stability.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="heaven">
+		<Name>Prosperity</Name>
+		<Text>
+The strength of Heaven mingles with the receptive earth. 
+The wise leader benefits from this harmony. 
+Good fortune approaches.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="earth">
+		<Name>Stagnation</Name>
+		<Text>
+The strong and the receptive do not meet.
+Strong persons give way to the inferior. 
+The enlightened person remains reserved to avoid misfortune. 
+No advantage in persistence.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="fire">
+		<Name>Community</Name>
+		<Text>
+Strength of heaven, dependence of fire. 
+Recognize the dependence of all upon their fellows. 
+The wiseperson seeks the collective flow to gain advantage.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="heaven">
+		<Name>Sovereignty</Name>
+		<Text>
+The strength of heaven holds a fiery intelligence,
+the maker of anenlightened ruler. 
+Resist evil, exalt good.
+Proper Leadership brings great progress.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="mountain">
+		<Name>Moderation</Name>
+		<Text>
+The tranquil mountainamid the receptive earth indicates great progress
+through the reduction of excess. Progress comes by equality of extremes.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="earth">
+		<Name>Harmony</Name>
+		<Text>
+From the receptive earth comes the loud thunder.
+So from harmony with supporters does the wise person gain advantage.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="thunder">
+		<Name>Flexibility</Name>
+		<Text>
+In the midst of excess growth and persistence produces progress.
+The enlightened person adapts and leads the way from darkness to comfort.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="wind">
+		<Name>Repair</Name>
+		<Text>
+Winds of gradual change wear away the mountain.
+Cultivate action in others to bring about repair and great progress. 
+If starting meditate on the future.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="lake">
+		<Name>Promotion</Name>
+		<Text>
+The earth above reflects in the lake beneath. 
+So is the enlightened person willing to teach and learn from others.
+Progress comes through persistence.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="earth">
+		<Name>Contemplation</Name>
+		<Text>
+As the wind moves over the earth so too the rulers of old travelled the world. 
+They visited its regions and contemplated its many cultures.
+Explore new ideas.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="thunder">
+		<Name>Reform</Name>
+		<Text>
+The turbulence of thunder and lightning indicates the need for change. 
+Achieve progress through reform.
+Administer justice.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="fire">
+		<Name>Serenity</Name>
+		<Text>
+Illumination reveals the foot of the immovable mountain. 
+So the wise person perceives and avoids disputes. 
+No progress except in small matters.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="earth">
+		<Name>Deterioration</Name>
+		<Text>
+The weak earth cannot support the mountain.
+The realm deteriorates.
+Enlightened people stabilize their lives through generosity toward the needy
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="thunder">
+		<Name>Repetition</Name>
+		<Text>
+The beginning of a new cycle shows that repetition brings new progress toward a goal.
+Friends return. 
+The repeating cycle is part of the Way.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="thunder">
+		<Name>Spontaneity</Name>
+		<Text>
+Strength above and activity below indicates an alignment with a natural state. 
+Act with persistence and inspiration but without a true goal.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="heaven">
+		<Name>Potential</Name>
+		<Text>
+The strength of the Heavens comes from within the mountain.
+The enlightened person studies the past's wisdom to develops his own character.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="thunder">
+		<Name>Nurturing</Name>
+		<Text>
+Energy stirs beneath immobility. 
+Support goals that are above question. but be cautious in expression and avoid the negative. 
+Correct persistence brings one good fortune.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="wind">
+		<Name>Imminent change</Name>
+		<Text>
+The enlightened person withdraws from the world to progress toward an independent goal. 
+Stress is imminent.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="water">
+		<Name>Danger</Name>
+		<Text>
+Profundity produces difficulty. 
+The wise person learns confidence through danger. 
+Remain calm in mind keep all actions virtuous.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="fire">
+		<Name>Enlightened intelligence</Name>
+		<Text>
+Intelligence shines above and below. 
+The enlightened person cultivates intelligence and gains progress through correct persistence. 
+Align yourself with goals that bring enlightenment.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="mountain">
+		<Name>Attraction</Name>
+		<Text>
+Tranquility combined with excess produces pleasure. 
+Marriage brings good fortune.
+Accept others and act openly. 
+All change is imminent.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="wind">
+		<Name>Continuity</Name>
+		<Text>
+Activity and change teach well the value of endurance. 
+Stand firm and move with persistence toward a goal.
+Freedom from error.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="mountain">
+		<Name>Retreat</Name>
+		<Text>
+The tranquil mountain remains quiet under Heaven's gaze. 
+So does the enlightened person maintain dignity in retreat. 
+Persist only in small matters and avoid mean conflict.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="heaven">
+		<Name>Power</Name>
+		<Text>
+Activity in the light of day. 
+The wise person acts within convention and with persistence.
+Use influence wisely.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="earth">
+		<Name>Progress</Name>
+		<Text>
+The sun rises above the earth. 
+So does the enlightened person reveal virtue. 
+Conditions favorable for progress. 
+Help others through cleverness and virtue.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="fire">
+		<Name>Subtlety</Name>
+		<Text>
+Intelligence is hidden within the earth. 
+Conceal goals, but do not abandon them. 
+Trying conditions but correct persistence brings one advantage.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="fire">
+		<Name>Family</Name>
+		<Text>
+Winds of change issue from intelligent action.
+The enlightened person acts in an orderly and substantial way.
+Faith and loyalty must be nurtuted.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="lake">
+		<Name>Contradiction</Name>
+		<Text>
+Intelligence contradicts excess. 
+The enlightened person acts only in small matters. 
+Maintain individuality
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="mountain">
+		<Name>Obstacles</Name>
+		<Text>
+Profound movement meets immobility. 
+The enlightened person examines and perfects his own behavior to gain strength.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="water">
+		<Name>Liberation</Name>
+		<Text>
+Rain and thunder indicate profound activity.
+The enlightened person finds good fortune in quick action to restore normal conditions. 
+Forgive others' faults.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="lake">
+		<Name>Decline</Name>
+		<Text>
+Excess is held by immobility. 
+The enlightened person acts with moderation. 
+Avoid anger, develop confidence. 
+Sacrifice brings good fortune, freedom from error.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="thunder">
+		<Name>Benefit</Name>
+		<Text>
+Growth brings benefit.
+An enlightened person sees the good actions of his fellows. 
+Imitate them and correct their mistakes to make progress toward a goal.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="heaven">
+		<Name>Resolve</Name>
+		<Text>
+Excess drawn into Heaven's gaze produces honesty. 
+Do not use force but rely on fair judges. 
+Know your goal, tell your supporters.
+		</Text>
+	</Fortune>
+	<Fortune Above="heaven" Below="wind">
+		<Name>Temptation</Name>
+		<Text>
+Heaven's power makes stronger the wind of change. 
+So too a ruler issues commands that become well known. 
+Do not create a relationship with powe)ful persons
+or ideas. Exert discipline.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="earth">
+		<Name>Assembly</Name>
+		<Text>
+The earth receives excess. 
+Unite with others, make sacrifices, and act with correct persistence to achieve a goal.
+Act with sincerity, avoid suspicion, and join with a wise leader.
+		</Text>
+	</Fortune>
+	<Fortune Above="earth" Below="wind">
+		<Name>Advancement</Name>
+		<Text>
+Gradual change, nourished by the receptive earth, produces a path to virtue. 
+The enlightened person persists in small matters to gain fortune. 
+Approach leaders without fear.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="water">
+		<Name>Adversity</Name>
+		<Text>
+Excess lacks profundity. 
+The enlightened person gains progress through courage. 
+Adversity needs risks to achieve fortune. 
+Speaking alone is uneffective.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="wind">
+		<Name>Insight</Name>
+		<Text>
+Profound penetration and change. 
+Truth is never exhausted, yet never the same. 
+The enlightened person gains insight into truth and assists others to achieve it. 
+If the truth is not heeded, bad fortune follows.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="fire">
+		<Name>Change</Name>
+		<Text>
+Intelligent consciousness amid excess produces change. 
+The enlightened person appreciates past experience and present opportunity. 
+Confidence and progress only after change is past.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="wind">
+		<Name>Order</Name>
+		<Text>
+Intelligence combined with penetration makes progress and good fortune. 
+The wise person aligns himself with the established order.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="thunder">
+		<Name>Shock</Name>
+		<Text>
+Repeated activity produces sudden surprise and fear. 
+The enlightened person seeks to improve himself and take advantage of the unpredictable.
+		</Text>
+	</Fortune>
+	<Fortune Above="mountain" Below="mountain">
+		<Name>Meditation</Name>
+		<Text>
+Tranquility upon tranquility. 
+The enlightened person turns his back upon the larger situation and loses self awareness. 
+Should he not notice anyone else, there is no error
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="mountain">
+		<Name>Development</Name>
+		<Text>
+Penetrating change moves the immobile mountain. 
+The enlightened person improves life through good conduct and correct persistence. 
+Marriage brings good fortune.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="lake">
+		<Name>Passivity</Name>
+		<Text>
+Action above, excess below. 
+The enlightened person in current difficulty takes no action but considers the near future. 
+Seek no goal.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="fire">
+		<Name>Peaking intelligence</Name>
+		<Text>
+Intelligence combined with activity. 
+This is the zenith of achievement. 
+The enlightened person trusts his own judgment and makes progress. 
+Do not fear decline, but shine like the sun.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="mountain">
+		<Name>Travel</Name>
+		<Text>
+Illumination upont he quiet mountain makes conditions favorable for travel. 
+The wise person is clear-minded and not detained by disputes.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="wind">
+		<Name>Influence</Name>
+		<Text>
+Penetrating change above and be low. 
+The enlightened person acts gradually and only toward small goals.
+Wait and consider larger perspectives.
+		</Text>
+	</Fortune>
+	<Fortune Above="lake" Below="lake">
+		<Name>Encouragement</Name>
+		<Text>
+Openness and excess above and be low. 
+The wise person exchanges ideas with others to find cooperation. 
+Progress and advantage in correct persistence.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="water">
+		<Name>Reunion</Name>
+		<Text>
+Gradual change above the profound water.
+Rulers meet with their subordinates. 
+Advantage in cooperation, correct persistence, and the company offellows.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="lake">
+		<Name>Limitation</Name>
+		<Text>
+Profundity is held in check by excess. 
+The wise person develops sound restraints and decides proper conduct.
+Extreme limitation, though, is no virtue.
+		</Text>
+	</Fortune>
+	<Fortune Above="wind" Below="lake">
+		<Name>Understanding</Name>
+		<Text>
+Penetrating change above the open lake.
+From a distance the wise person gains understanding. 
+Moderate disputes and must avoid rigidity.
+		</Text>
+	</Fortune>
+	<Fortune Above="thunder" Below="mountain">
+		<Name>Attention to detail</Name>
+		<Text>
+As the mountain remains tranquil in activity, so the wise person conducts himself with dignity and control. 
+Be remorseful in losses and frugal in expenses.
+When birdsflytoo high, none hear their song.
+		</Text>
+	</Fortune>
+	<Fortune Above="water" Below="fire">
+		<Name>Precaution</Name>
+		<Text>
+In consciousness is bred profound difficulty. 
+The enlightened person defends against forthcoming adversity. 
+Progress only in small matters.
+Confusion is imminent.
+		</Text>
+	</Fortune>
+	<Fortune Above="fire" Below="water">
+		<Name>Vigilance</Name>
+		<Text>
+Consciousness above the difficult water. 
+The wise person attends his position and progress carefully. 
+Progress with great vigilance.
+		</Text>
+	</Fortune>
+</Fortunes>

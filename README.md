@@ -19,13 +19,9 @@ To jest napisane tak że nie musi działać w WinForms wystarczy zmienić parę 
 
 Tak wiem że interfejs jest zrobiony na odwal się, jak i reszta programu.
 
+**W życiu można liczyć tylko na siebie**
 
-
-Nie patrz tam
-||
-||
-||
-\/
+Nie patrz w dół
 
 
 
